@@ -1,4 +1,4 @@
-# CS30
+# PongIdeas
 Computer Science 30 
 PongGame
 Ideas Pong:
